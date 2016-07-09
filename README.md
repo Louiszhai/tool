@@ -31,11 +31,14 @@
 
 以上, 推荐开发使用 Typora, PM等使用 Ulysses.
 
-### mac重度依赖者
+### Mac重度依赖者
 
-#### 开发工具有关
+#### 开发工具
 
 - [Charles](https://www.charlesproxy.com/) 网络封包分析应用, mac必备.
+- [SnippetsLab](http://www.renfei.org/snippets-lab/) 优秀的代码片段管理工具, 轻量, 可基于菜单栏操作.
+- [aText](http://www.trankynam.com/atext/) 输入增强应用, 比 [TextExpander](http://www.pc6.com/mac/146924.html) 要人性化许多，并且对中文和第三方输入法的支持都要更好.
+- [Dash](https://kapeli.com/dash) mac上api集合应用, 几乎包含各种语言的api文档.
 
 #### 提高效率
 
@@ -45,9 +48,33 @@
 - [Scroll Reverser](http://pilotmoon.com/scrollreverser/) mac滚动方向自定义应用, 可分别设置鼠标和触摸板的上下左右的滚动效果.
 - [Size up](http://www.irradiatedsoftware.com/sizeup/) 分屏应用, 类似Moon的一款应用, 支持上下左右居中及4个角落快速分屏.
 - [Sip](http://www.pc6.com/mac/124262.html) 全屏取色应用, 支持快捷键调出(前端福音, 寻找多年,终于发掘出来了).
+- [Graphviz](http://www.graphviz.org/) 贝尔实验室开发的有向图/无向图自动布局应用, 支持dot脚本绘制结构图, 流程图等. 可参考教程 [利用Graphviz 画结构图](http://www.cnblogs.com/sld666666/archive/2010/06/25/1765510.html) 及 [使用graphviz绘制流程图](http://www.cnblogs.com/CoolJie/archive/2012/07/17/graphviz.html) .
 - [XMind](http://www.xmindchina.net/) 思维导图应用, 适合业务及思路梳理.
 - [Pomodoro One](http://www.pc6.com/mac/136806.html) 番茄工作法的一款应用.
-- [Bartender 2](https://www.macbartender.com/) mac任务栏管理应用, 支持隐藏所有任务栏图标, 还您一个干净的任务栏.
+
+#### 折腾党玩转Mac
+
+- [Bartender 2](https://www.macbartender.com/) mac任务栏管理应用, 支持隐藏所有菜单栏图标, 还您一个干净的菜单栏.
+- [TextBar](https://www.macstories.net/mac/textbar-puts-your-text-into-the-menu-bar/) 自定义菜单栏输出, 支持script运行, 支持H5渲染.
+- [Growl](http://growl.info/) 自定义通知样式, 支持多种主题以及颜色, 大小, 渐隐时间等各项参数的自定义.
+- [ScreenFlow](http://screenflow.en.softonic.com/mac) 这或许是mac上最好用的屏幕录制软件.
+- [Annotate](http://www.waitsun.com/annotate-2-0-5.html) 屏幕截图批注应用, 令人惊喜的是, 支持划区域gif制作, 教程以及动图制作者必备.
+- [Tickeys](http://www.yingdev.com/projects/tickeys) 键盘打字风格模拟应用, 支持 Cherry轴等多种风格.
+- [AirServer](http://www.airserver.com/) IOS连接mac必备.
+- [BetterTouchTool](https://www.boastr.net/) mac触摸板增强神器.
+- [Beyond Compare](http://www.beyondcompare.cc/) 文件比较应用, 支持文件, 目录, FTP远程地址比较等.
+- [Caffeine](http://www.pc6.com/mac/121734.html) 点亮mac, 避免长时间演示ppt而进入到休眠状态.
+- [Debookee](http://www.pc6.com/mac/129593.html) 网络抓包及数据分析应用.
+- [EasyFind](http://www.waerfa.com/easyfind) 小而强大的文件搜索应用, 媲美windows下的Everything.
+- [FileZilla](https://filezilla-project.org/) 免费开源的FTP应用.
+- [Karabiner](https://pqrs.org/osx/karabiner/) 键盘映射修改神器.
+- [TripMode](http://www.pc6.com/mac/144495.html) 移动热点流量管家, 出差达人的福音.
+- [Übersicht](http://sspai.com/28020) 华丽的桌面自定义应用, 类似于windows的 [rainmeter](http://rainmeter.cn/cms/). 支持H5.
+- [Today Scripts](http://www.waerfa.com/today-scripts-for-yosemite-today-view) 个性化通知栏插件, 支持bash脚本.
+- [OmniDiskSweeper](http://newping.cn/322) 硬盘空间扫描应用, 帮助mac减肥.
+- [Kaleidoscope](http://www.pc6.com/mac/113361.html) 文件和图像比较应用, 支持图片比较, 能与 git, svn 等版本控制工具完美结合.
+- [keycue](http://www.pc6.com/mac/116332.html) 快捷键辅助应用, 帮助记忆快捷键.
+- [Mountain Tweaks](http://tweaksapp.com/app/mountain-tweaks/) mac隐藏功能开启应用.
 
 ### 终端命令
 
@@ -102,11 +129,6 @@
 以上 Alfred 界面使用了少数派的主题. 
 
 有关其他的workflow 内容, 请移步 [`Alfred Workflows`](https://github.com/Louiszhai/alfred-workflows) , 那里会有更多非常不错的 workflow 供您选用.
-
-
-## License
-
-Released under [MIT](http://rem.mit-license.org/)  LICENSE.
 
 
 
