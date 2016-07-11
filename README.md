@@ -8,8 +8,8 @@
 
 本文侧重开发且兼顾PM同学, 工具分享会涉及到:
 
-1. PM或博客编写者markdown编辑器推荐
-2. mac重度依赖者软件推荐
+1. PM或博客撰写者markdown编辑器推荐
+2. mac重度依赖者应用推荐
 3. 终端便捷工具推荐
 4. Chrome Extension及扩展插件开发
 5. Alfred workflow 自制及开源的推荐
@@ -37,7 +37,7 @@
 
 - [Charles](https://www.charlesproxy.com/) 网络封包分析应用, mac必备.
 - [SnippetsLab](http://www.renfei.org/snippets-lab/) 优秀的代码片段管理工具, 轻量, 可基于菜单栏操作.
-- [aText](http://www.trankynam.com/atext/) 输入增强应用, 比 [TextExpander](http://www.pc6.com/mac/146924.html) 要人性化许多，并且对中文和第三方输入法的支持都要更好.
+- [aText](http://www.trankynam.com/atext/) 输入增强应用, 比 [`TextExpander`](http://www.pc6.com/mac/146924.html) 要人性化许多，并且对中文和第三方输入法的支持都要更好.
 - [Dash](https://kapeli.com/dash) mac上api集合应用, 几乎包含各种语言的api文档.
 
 #### 提高效率
@@ -60,20 +60,22 @@
 - [ScreenFlow](http://screenflow.en.softonic.com/mac) 这或许是mac上最好用的屏幕录制软件.
 - [Annotate](http://www.waitsun.com/annotate-2-0-5.html) 屏幕截图批注应用, 令人惊喜的是, 支持划区域gif制作, 教程以及动图制作者必备.
 - [Tickeys](http://www.yingdev.com/projects/tickeys) 键盘打字风格模拟应用, 支持 Cherry轴等多种风格.
-- [AirServer](http://www.airserver.com/) IOS连接mac必备.
+- [Karabiner](https://pqrs.org/osx/karabiner/) 键盘映射修改神器.
+- [Keyboard Maestro](https://www.keyboardmaestro.com/main/) 键盘大师, mac下功能最为丰富的键盘增强应用.
 - [BetterTouchTool](https://www.boastr.net/) mac触摸板增强神器.
+- [keycue](http://www.pc6.com/mac/116332.html) 快捷键辅助应用, 帮助记忆快捷键.
+- [AirServer](http://www.airserver.com/) IOS连接mac必备.
 - [Beyond Compare](http://www.beyondcompare.cc/) 文件比较应用, 支持文件, 目录, FTP远程地址比较等.
 - [Caffeine](http://www.pc6.com/mac/121734.html) 点亮mac, 避免长时间演示ppt而进入到休眠状态.
 - [Debookee](http://www.pc6.com/mac/129593.html) 网络抓包及数据分析应用.
 - [EasyFind](http://www.waerfa.com/easyfind) 小而强大的文件搜索应用, 媲美windows下的Everything.
 - [FileZilla](https://filezilla-project.org/) 免费开源的FTP应用.
-- [Karabiner](https://pqrs.org/osx/karabiner/) 键盘映射修改神器.
 - [TripMode](http://www.pc6.com/mac/144495.html) 移动热点流量管家, 出差达人的福音.
-- [Übersicht](http://sspai.com/28020) 华丽的桌面自定义应用, 类似于windows的 [rainmeter](http://rainmeter.cn/cms/). 支持H5.
+- [Übersicht](http://sspai.com/28020) 华丽的桌面自定义应用, 类似于windows的 [`rainmeter`](http://rainmeter.cn/cms/). 支持H5.
 - [Today Scripts](http://www.waerfa.com/today-scripts-for-yosemite-today-view) 个性化通知栏插件, 支持bash脚本.
 - [OmniDiskSweeper](http://newping.cn/322) 硬盘空间扫描应用, 帮助mac减肥.
 - [Kaleidoscope](http://www.pc6.com/mac/113361.html) 文件和图像比较应用, 支持图片比较, 能与 git, svn 等版本控制工具完美结合.
-- [keycue](http://www.pc6.com/mac/116332.html) 快捷键辅助应用, 帮助记忆快捷键.
+- [AppCleaner](http://freemacsoft.net/appcleaner/) mac应用卸载工具, 结合  [`AppCleaner`](https://github.com/Louiszhai/tool/blob/master/workflow/AppCleaner.alfredworkflow?raw=true) 的workflow, 使用效果更佳.
 - [Mountain Tweaks](http://tweaksapp.com/app/mountain-tweaks/) mac隐藏功能开启应用.
 
 ### 终端命令
@@ -90,8 +92,8 @@
 - [FE助手](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad0) 百度推出的前端助手, 具有很多便捷的小功能.
 - [YSlow](https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh) 雅虎性能分析工具.
 - [Postman](https://chrome.google.com/webstore/detail/mkhojklkhkdaghjjfdnphfphiaiohkef) 接口调试工具, 几乎支持所有类型的http(s)请求.
-- [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) json预览工具.
-- [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn) 页面尺子, 页面重构或者严格按照设计图开发页面时, 非常有用.
+- [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) json预览工具, 接口调试必备.
+- [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn) 页面尺子, 页面重构或者严格按照设计图开发页面时, 将会非常有用.
 - [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel) 网站Alexa排名查看工具.
 
 #### 工作效率有关
@@ -104,8 +106,9 @@
 #### 网站有关
 
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) Github重度依赖者必备, 提供左侧边栏, 快速浏览仓库内容. 
-- [AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom) 超强去广告应用, 近20W人使用.
+- [AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom) 超强去广告扩展, 近20W人使用.
 - [阅读模式](https://chrome.google.com/webstore/detail/reader-view/iibolhpkjjmoepndefdmdlmbpfhlgjpl) 快速开启阅读模式, 进入沉浸式阅读, 并非支持所有网页.
+- [Listen1](https://github.com/listen1/listen1_chrome_extension) 听歌插件, 避免各大网站来回搜歌, 音乐爱好者的福音.
 
 #### Chrome Extension开发
 
