@@ -81,8 +81,19 @@
 
 ### 终端命令
 
-- [autojump]() 支持快速跳转到曾经打开过的目录下,安装方法: brew install autojump .
-- [tmux]() 终端复用工具, 支持在终端中创建不依赖于终端的窗口, 安装方法: brew install tmux .
+- [ohmyzsh](http://ohmyz.sh/) shell有很多种, 常用的bash就是之一. 而zsh是shell中目前最强大的, 没有之一. ohmyzsh屏蔽了zsh复杂的配置, 真正达到了一键上手zsh的目的.
+
+  ```bash
+  # Mac下自动安装&设置
+  wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh
+  # 设置 shell 默认使用 zsh
+  chsh -s /bin/zsh
+  #在 dock 栏右键退出终端, 然后重启终端~安装完成
+  ```
+
+- [autojump](https://github.com/wting/autojump) 支持快速跳转到曾经打开过的目录下,安装方法: brew install autojump .
+
+- [tmux](http://tmux.github.io/) 终端复用工具, 支持在终端中创建不依赖于终端的窗口, 安装方法: brew install tmux .
 
 ### Chrome Extension篇
 
