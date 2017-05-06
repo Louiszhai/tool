@@ -135,7 +135,7 @@
 #### 网站有关
 
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) Github重度依赖者必备, 提供左侧边栏, 快速浏览仓库内容. 
-- [AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom) 超强去广告工具, 近20W人使用.
+- [AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom) 超强去广告工具, 最受欢迎的Chrome扩展, 拥有超过4000万用户.
 - [阅读模式](https://chrome.google.com/webstore/detail/reader-view/iibolhpkjjmoepndefdmdlmbpfhlgjpl) 快速开启阅读模式, 进入沉浸式阅读, 并非支持所有网页.
 - [Blipshot](https://chrome.google.com/webstore/detail/blipshot-one-click-full-p/mdaboflcmhejfihjcbmdiebgfchigjcf?utm_source=chrome-ntp-icon) 全网页截图工具, 支持自动垂直滚动, 截取网页的所有内容为一张图片.
 
@@ -165,4 +165,4 @@
 
 
 
-[youdao-image]: images/shortcuts-youdao.png
+[youdao-image]: https://github.com/Louiszhai/tool/blob/master/images/shortcuts-youdao.png
