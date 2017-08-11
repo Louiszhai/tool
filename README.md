@@ -116,6 +116,7 @@
 #### 自制
 
 - [Iheader](https://github.com/Louiszhai/IHeader) 监听和修改http/https请求/响应头，可用于渗透测试（笔者修改请求头用于跨域调试，特别好用）。
+- [Qrcode](https://chrome.google.com/webstore/detail/qrcode/cmpjmgpafdgofigbhbneckneoakpdhag?utm_source=chrome-ntp-icon) URL生成二维码，如果网页中包含选中文本，则生成选中文本的二维码。
 
 #### 前端有关
 
