@@ -13,15 +13,10 @@ c=0
 # 当月代码量统计
 fun(){
 	eval $(git log --author="$author" --since=$firstDay --until=lastDay --pretty=tformat: --numstat 2> /dev/null \
-	| awk '{ add += $1; subs += $2; loc += $1 + $2 } END { printf "if [ x%s != x ] ; then a=$(( $a + %s ));b=$(( $b + %s ));c=$(( $c + %s )); fi", add, add, subs, loc}');
+	| awk '{ add += $1; subs += $2; loc += $1 + $2 } \
+	END { printf "if [ x%s != x ] ; then a=$(( $a + %s ));b=$(( $b + %s ));c=$(( $c + %s )); fi", add, add, subs, loc}');
 }
 fun
-# | while read a b c;
-# do
-#   eval $(print 'add'=$(($add + $a)))
-#   echo subs=$(($subs + $b))
-#   echo loc=$(($loc + $c))
-# done
 
 branch=$(git config  remote.origin.url)
 
