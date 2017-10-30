@@ -60,6 +60,7 @@
 - [ScreenFlow](http://screenflow.en.softonic.com/mac) 这或许是mac上最好用的屏幕录制应用.
 - [Annotate](http://www.waitsun.com/annotate-2-0-5.html) 屏幕截图批注应用, 令人惊喜的是, 支持划区域gif制作, 教程以及动图制作者必备.
 - [Licecap](http://www.cockos.com/licecap/) mac上超强大的且极简的gif录制应用, 使用免费, 支持FPS帧率调整且无录制时间限制(笔者用它录制了很多gif动图).
+- [KeyCastr](http://mac.softpedia.com/get/Utilities/KeyCastr.shtml) 将mac按键显示在屏幕上，分享演示、录制视频或动图时超赞.
 
 #### Mac定制化
 
@@ -109,7 +110,7 @@
 
 - [autojump](https://github.com/wting/autojump) 支持快速跳转到曾经打开过的目录下,安装方法: brew install autojump .
 
-- [tmux](http://tmux.github.io/) 终端复用工具, 支持在终端中创建不依赖于终端的窗口, 安装方法: brew install tmux .
+- [tmux](http://tmux.github.io/) 终端复用工具, 支持在终端中创建不依赖于终端的窗口, 安装方法: brew install tmux. 使用请参考：[Tmux使用手册](http://louiszhai.github.io/2017/09/30/tmux/).
 
 ### Chrome Extension篇
 
