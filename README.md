@@ -42,7 +42,7 @@
 
 #### 提高效率
 
-- [Alfred 3](http://www.sdifenzhou.com/alfred3.html) 神奇的魔法帽, 支持 ① 快速打开application; ② 支持Finder, Calculator, Contacts, Clipboard, iTunes, System, Terminal 等原生应用的各种便捷功能; ③ 支持workflow(工作流).
+- [Alfred 3](http://www.sdifenzhou.com/alfred3.html) 神奇的魔法帽, 支持 ① 快速打开application; ② 支持Finder, Calculator, Contacts, Clipboard, iTunes, System, Terminal 等原生应用的各种便捷功能; ③ 支持workflow(工作流)(需要升级为收费版的Powerpack).
 - [iterm2](http://www.iterm2.com/) 增强版的终端应用, 功能强大, 支持分屏, 历史记录, 选中即复制等.
 - [Sip](http://www.pc6.com/mac/124262.html) 全屏取色应用, 支持快捷键调出(前端福音, 寻找多年, 终于发掘出来了).
 - [Keka](http://www.kekaosx.com/en/) 压缩或解压缩应用, 开源免费, 压缩比高, 操作便捷, 支持rar等解压, 压缩中文目录后, 在windows下打开不会存在乱码等现象.
