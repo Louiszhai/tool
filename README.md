@@ -65,7 +65,7 @@
 #### Mac定制化
 
 - [Bartender 2](https://www.macbartender.com/) 菜单栏管理应用, 支持隐藏所有菜单栏图标, 还您一个干净的菜单栏.
-- [CDock](http://www.pc6.com/mac/161158.html) 任务栏定制应用, 可设置Dock全透明, 还您一个清爽的任务栏.
+- [CDock](https://cdock.macenhance.com/) 任务栏定制应用, 可设置Dock全透明, 还您一个清爽的任务栏.
 - [TextBar](https://www.macstories.net/mac/textbar-puts-your-text-into-the-menu-bar/) 自定义菜单栏输出, 支持script运行, 支持H5渲染.
 - [Growl](http://growl.info/) 自定义通知样式, 支持多种主题以及颜色, 大小, 渐隐时间等各项参数的自定义.
 - [Karabiner](https://pqrs.org/osx/karabiner/) 键盘映射修改神器.
