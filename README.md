@@ -134,6 +134,7 @@
 - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) json预览工具, 接口调试必备.
 - [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn) 页面尺子, 页面重构或者严格按照设计图开发页面时, 将会非常有用.
 - [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel) 网站Alexa排名查看工具.
+- [GitHub Trending](https://github.com/huchenme/hacker-tab-extension) 把打开的新页面替换为每天的 GitHub Trending 项目.
 
 #### 工作效率有关
 
