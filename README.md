@@ -6,7 +6,7 @@
 
 还记得: 刚参加工作的时候, 有位开发的同事软件使用效率奇高. 我曾亲眼目睹他在几秒之内打开开发软件, 优雅地调出隐藏的功能, 输入数据输出结果的过程行云流水, 一气呵成, 而手指却始终不曾离开键盘. 吃惊的同时, 不仅发现提高开发效率是多么的重要! 这便有了本篇文字.
 
-本文侧重开发且兼顾PM同学, 工具分享会涉及到:
+本文侧重开发且兼顾产品同学, 工具分享会涉及到:
 
 1. PM或博客撰写者markdown编辑器推荐
 2. mac重度依赖者应用推荐
@@ -16,37 +16,36 @@
 
 ### 随时记下闪现的灵感
 
-人的一天中大脑会产生大约6万个想法, 其中不乏有许多优秀的 idea. 如果我们能学会捕捉哪怕是部分灵感, 也将会收获巨大. 因此工作中需要及时地记下闪现的灵感, 以方便闲暇时温故而知新. 这里推荐两个笔记应用: ① [Evernote](https://www.yinxiang.com/) ② [OneNote](http://www.onenote.com/) . (注: Evernote速记快捷键Control+Command+N)
+人的一天中大脑会产生大约6万个想法, 其中有不少优秀的 idea. 如果我们能学会捕捉哪怕是部分灵感, 也将会收获巨大. 因此工作中需要及时地记下闪现的灵感, 以方便闲暇时温故而知新. 这里推荐两个笔记应用: ① [Evernote](https://www.yinxiang.com/) ② [OneNote](http://www.onenote.com/) . (注: Evernote速记快捷键Control+Command+N)
 
 ### Markdown编辑器
 
-目前可供选择的markdown编辑器至少以下有六种:
+目前可供选择的markdown编辑器非常之多，至少以下有六种:
 
 1. [Typora](http://www.typora.io/), 简洁轻便免费, 独有的所见即所得, 可在预览状态下编辑, 快捷键丰富, 脚本高亮功能出彩, 导出为pdf后, 排版同样正常, 这点非常难得, 笔者使用的就是该款.
 2. [Ulysses](http://www.ulyssesapp.com/), 功能强大, 快捷键丰富, 支持目录导入, 支持多终端同步.
 3. [MWeb Lite](http://www.pc6.com/mac/161974.html),  [MWeb](http://zh.mweb.im/)的微型版, 不收费, 支持目录导入.
 4. [macdown](http://macdown.uranusjr.com/), 基于mou开发, 轻量, 不支持目录导入.
 5. [mou](http://25.io/mou/) 历史悠久, 据说有少量的bug, 具体请参考 [Mac 下两款 Markdown 编辑器 Mou/MacDown 大 PK \- 简书](http://www.jianshu.com/p/6c157af09e84) .
-6. [markeditor](http://markeditor.com/app/markeditor), 新出的markdown编辑器, 注重视觉感受, 界面不错, 但运行较慢.
+6. [markeditor](http://markeditor.com/app/markeditor), 注重视觉感受, 界面不错, 但运行较慢.
 
-以上, 推荐开发使用 Typora, PM等使用 Ulysses.
+以上, 推荐开发使用 Typora, 产品等使用 Ulysses.
 
 ### Mac重度依赖者
 
 #### 开发工具
 
-- [Charles](https://www.charlesproxy.com/) 网络封包分析应用, mac必备.
+- [Charles](https://www.charlesproxy.com/) 网络抓包应用, mac必备.
 - [aText](http://www.trankynam.com/atext/) 输入增强应用, 比 [`TextExpander`](http://www.pc6.com/mac/146924.html) 要人性化许多，并且对中文和第三方输入法的支持都要更好.
 - [Dash](https://kapeli.com/dash) mac上api集合应用, 几乎包含各种语言的api文档.
 - [SnippetsLab](http://www.renfei.org/snippets-lab/) 优秀的代码片段管理工具, 轻量, 可基于菜单栏操作.
 
-#### 提高效率
+#### 效率提升
 
 - [Alfred 3](http://www.sdifenzhou.com/alfred3.html) 神奇的魔法帽, 支持 ① 快速打开application; ② 支持Finder, Calculator, Contacts, Clipboard, iTunes, System, Terminal 等原生应用的各种便捷功能; ③ 支持workflow(工作流).
 - [iterm2](http://www.iterm2.com/) 增强版的终端应用, 功能强大, 支持分屏, 历史记录, 选中即复制等.
 - [Sip](http://www.pc6.com/mac/124262.html) 全屏取色应用, 支持快捷键调出(前端福音, 寻找多年, 终于发掘出来了).
 - [Keka](http://www.kekaosx.com/en/) 压缩或解压缩应用, 开源免费, 压缩比高, 操作便捷, 支持rar等解压, 压缩中文目录后, 在windows下打开不会存在乱码等现象.
-- [SwitchHosts](https://github.com/oldj/SwitchHosts/releases) 域名host解析必备神器, 支持 windows和Mac的开源工具, mac下只有几百K大小.
 - [Scroll Reverser](http://pilotmoon.com/scrollreverser/) mac滚动方向自定义应用, 可分别设置鼠标和触摸板的上下左右的滚动效果.
 - [Size up](http://www.irradiatedsoftware.com/sizeup/) 分屏应用, 类似Moon的一款应用, 支持上下左右居中、4个角落快速分屏及多屏幕切换.
 - [Divvy](http://www.pc6.com/mac/124992.html) 另一款分屏应用, 可将屏幕分成多宫格的形式, 然后为每个格子定义快捷键, 遗憾的是不支持多屏幕切换.
@@ -64,7 +63,7 @@
 
 #### Mac定制化
 
-- [Bartender 2](https://www.macbartender.com/) 菜单栏管理应用, 支持隐藏所有菜单栏图标, 还您一个干净的菜单栏.
+- [Bartender 3](https://www.macbartender.com/) 菜单栏管理应用, 支持隐藏所有菜单栏图标, 还您一个干净的菜单栏.
 - [CDock](http://www.pc6.com/mac/161158.html) 任务栏定制应用, 可设置Dock全透明, 还您一个清爽的任务栏.
 - [TextBar](https://www.macstories.net/mac/textbar-puts-your-text-into-the-menu-bar/) 自定义菜单栏输出, 支持script运行, 支持H5渲染.
 - [Growl](http://growl.info/) 自定义通知样式, 支持多种主题以及颜色, 大小, 渐隐时间等各项参数的自定义.
@@ -72,7 +71,7 @@
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/) 键盘大师, mac下功能最为丰富的键盘增强应用.
 - [BetterTouchTool](https://www.boastr.net/) mac触摸板增强神器.
 - [Übersicht](http://sspai.com/28020) 华丽的桌面自定义应用, 类似于windows的 [`rainmeter`](http://rainmeter.cn/cms/). 支持H5.
-- [Today Scripts](http://www.waerfa.com/today-scripts-for-yosemite-today-view) 个性化通知栏插件, 支持bash脚本(最新的OSX系统不支持).
+- [Today Scripts](http://www.waerfa.com/today-scripts-for-yosemite-today-view) 个性化通知栏插件, 支持bash脚本.
 - [Mountain Tweaks](http://tweaksapp.com/app/mountain-tweaks/) mac隐藏功能开启应用.
 
 #### 折腾党玩转Mac
@@ -93,7 +92,6 @@
 - [Script Debugger](http://www.pc6.com/mac/428096.html) 强大的AppleScript编辑器.
 - [Reeder](http://www.pc6.com/mac/158839.html) 界面优美的RSS订阅应用.
 - [HyperSwitch](https://bahoom.com/hyperswitch) 带有预览图的快速切换, 作用同Command+Tab.
-- [Cool retro term](https://github.com/Swordfish90/cool-retro-term) 终端变身复古显示器.
 - [Fruit Juice](http://www.pc6.com/mac/119197.html) 电池管理应用, 帮助延迟电池的使用时间.
 
 ### 终端命令
@@ -121,15 +119,16 @@
 
 #### 前端有关
 
-- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) React开发者工具.
-- [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) Redux开发者工具.
-- [FE助手](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad0) 百度推出的前端助手, 具有很多便捷的小功能.
+- [whistle](http://wproxy.org/whistle/) node实现的抓包工具，配合chrome扩展，可基于chrome完成抓包，代理，甚至可基于js生成mock数据，完全可替代charles。
 - [YSlow](https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh) 雅虎性能分析工具.
+- [FE助手](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad0) 百度推出的前端助手, 具有很多便捷的小功能.
 - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) 接口调试工具, 几乎支持所有类型的http(s)请求.
 - [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?utm_source=chrome-ntp-icon) cookie编辑工具, 可用于获取或设置http only等cookie的值.
 - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) json预览工具, 接口调试必备.
 - [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn) 页面尺子, 页面重构或者严格按照设计图开发页面时, 将会非常有用.
 - [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel) 网站Alexa排名查看工具.
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) React开发者工具.
+- [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) Redux开发者工具.
 
 #### 工作效率有关
 
