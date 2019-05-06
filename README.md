@@ -39,6 +39,7 @@
 - [aText](http://www.trankynam.com/atext/) 输入增强应用, 比 [`TextExpander`](http://www.pc6.com/mac/146924.html) 要人性化许多，并且对中文和第三方输入法的支持都要更好.
 - [Dash](https://kapeli.com/dash) mac上api集合应用, 几乎包含各种语言的api文档.
 - [SnippetsLab](http://www.renfei.org/snippets-lab/) 优秀的代码片段管理工具, 轻量, 可基于菜单栏操作.
+- [CodeExpander](https://codeexpander.com) 专为开发者开发的一个集输入增强、代码片段管理(支持 Markdown)为一体跨平台云同步的开发工具。
 
 #### 效率提升
 
