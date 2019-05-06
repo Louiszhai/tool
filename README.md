@@ -47,6 +47,7 @@
 - [iterm2](http://www.iterm2.com/) 增强版的终端应用, 功能强大, 支持分屏, 历史记录, 选中即复制等.
 - [Sip](http://www.pc6.com/mac/124262.html) 全屏取色应用, 支持快捷键调出(前端福音, 寻找多年, 终于发掘出来了).
 - [Keka](http://www.kekaosx.com/en/) 压缩或解压缩应用, 开源免费, 压缩比高, 操作便捷, 支持rar等解压, 压缩中文目录后, 在windows下打开不会存在乱码等现象.
+- [ezip](https://ezip.awehunt.com/) 专为macOS而设计的压缩软件, 功能强大, 预览、提取功能特别好用, 永久免费.
 - [Scroll Reverser](http://pilotmoon.com/scrollreverser/) mac滚动方向自定义应用, 可分别设置鼠标和触摸板的上下左右的滚动效果.
 - [Size up](http://www.irradiatedsoftware.com/sizeup/) 分屏应用, 类似Moon的一款应用, 支持上下左右居中、4个角落快速分屏及多屏幕切换.
 - [Divvy](http://www.pc6.com/mac/124992.html) 另一款分屏应用, 可将屏幕分成多宫格的形式, 然后为每个格子定义快捷键, 遗憾的是不支持多屏幕切换.
