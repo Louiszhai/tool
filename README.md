@@ -51,6 +51,7 @@
 - [Scroll Reverser](http://pilotmoon.com/scrollreverser/) mac滚动方向自定义应用, 可分别设置鼠标和触摸板的上下左右的滚动效果.
 - [Size up](http://www.irradiatedsoftware.com/sizeup/) 分屏应用, 类似Moon的一款应用, 支持上下左右居中、4个角落快速分屏及多屏幕切换.
 - [Divvy](http://www.pc6.com/mac/124992.html) 另一款分屏应用, 可将屏幕分成多宫格的形式, 然后为每个格子定义快捷键, 遗憾的是不支持多屏幕切换.
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) 免费开源的 macOS 多显示器窗口与屏幕管理工具, 拔插外接显示器或唤醒后自动将窗口恢复到对应的显示器、桌面(Space)和位置, 支持按 C 口自动切换排列、外接屏 DDC 亮度/音量调节(可跟随内建屏幕环境光自动变化)及菜单栏 4 档防休眠.
 - [Graphviz](http://www.graphviz.org/) 贝尔实验室开发的有向图/无向图自动布局应用, 支持dot脚本绘制结构图, 流程图等. 可参考教程 [利用Graphviz 画结构图](http://www.cnblogs.com/sld666666/archive/2010/06/25/1765510.html) 及 [使用graphviz绘制流程图](http://www.cnblogs.com/CoolJie/archive/2012/07/17/graphviz.html) .
 - [XMind](http://www.xmindchina.net/) 思维导图应用, 适合业务及思路梳理.
 - [iThoughtsX](http://www.pc6.com/mac/129882.html) 另一款思维导图应用, 更加简洁和轻量.
